@@ -13,6 +13,11 @@ Ce projet est une démo d'environ 3 minutes montrant un petit Kirby qui nous inv
 ## Video :
 
 https://www.youtube.com/watch?v=ZA84KkezSdM
+<img width="70%" height="70%" alt="Design sans titre (2)" src="https://github.com/user-attachments/assets/57190fb8-4ab0-48db-b1ba-ab7643acc1a3" />
+
+<img width="20%" height="20%" alt="Screenshot from 2026-03-10 13-50-57" src="https://github.com/user-attachments/assets/3f7c748b-f41b-4b07-92e0-545bac31028d" />
+<img width="25%" height="25%" alt="Screenshot from 2026-03-10 13-49-11" src="https://github.com/user-attachments/assets/15b0fddc-cec8-4d53-915e-7a9e842f4ea1" />
+
 
 ## Technologies
 
