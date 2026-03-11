@@ -1,0 +1,11 @@
+Model Information:
+* title:	Kirby
+* source:	https://sketchfab.com/3d-models/kirby-caf6f9f74b90463a86c7ff8f30b199a4
+* author:	JadeandPals (https://sketchfab.com/JadeandPals)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Kirby" (https://sketchfab.com/3d-models/kirby-caf6f9f74b90463a86c7ff8f30b199a4) by JadeandPals (https://sketchfab.com/JadeandPals) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

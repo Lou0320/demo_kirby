@@ -1,0 +1,11 @@
+Model Information:
+* title:	Night Club
+* source:	https://sketchfab.com/3d-models/night-club-51698a2a7171450ea40438a5dbc105f5
+* author:	MBRODERI2 (https://sketchfab.com/MBRODERI2)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Night Club" (https://sketchfab.com/3d-models/night-club-51698a2a7171450ea40438a5dbc105f5) by MBRODERI2 (https://sketchfab.com/MBRODERI2) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Karby (Kirby and the Forgotten Land)
+* source:	https://sketchfab.com/3d-models/karby-kirby-and-the-forgotten-land-9be07c7b73d04136b294efc6d4f6b2e5
+* author:	Daveytopdog (https://sketchfab.com/daveytopdog)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Karby (Kirby and the Forgotten Land)" (https://sketchfab.com/3d-models/karby-kirby-and-the-forgotten-land-9be07c7b73d04136b294efc6d4f6b2e5) by Daveytopdog (https://sketchfab.com/daveytopdog) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

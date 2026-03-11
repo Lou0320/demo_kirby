@@ -1,0 +1,259 @@
+{
+  "accessors": [
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.9073253870010376,
+        0.7731925249099731,
+        0.19750621914863586
+      ],
+      "min": [
+        -0.9073253870010376,
+        -0.9538683295249939,
+        -0.06521909683942795
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 786384,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.999937891960144,
+        0.9973924160003662,
+        0.9976159334182739
+      ],
+      "min": [
+        -0.999937891960144,
+        -0.9989551901817322,
+        -0.9993481636047363
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 98298,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1572768,
+      "componentType": 5126,
+      "count": 36868,
+      "max": [
+        0.8978793621063232,
+        0.7651849389076233,
+        0.20744089782238007
+      ],
+      "min": [
+        -0.8978793621063232,
+        -0.9438916444778442,
+        -0.055284418165683746
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 2015184,
+      "componentType": 5126,
+      "count": 36868,
+      "max": [
+        0.9854984879493713,
+        0.9814052581787109,
+        0.9993481636047363
+      ],
+      "min": [
+        -0.9854965209960938,
+        -0.986988365650177,
+        -0.9976158142089844
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 393192,
+      "componentType": 5125,
+      "count": 55302,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "negar (https://sketchfab.com/negar)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/star-5b21e84ddc0342359cd272a9c6dd31cb",
+      "title": "Star"
+    },
+    "generator": "Sketchfab-12.65.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 614400,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2457600,
+      "byteOffset": 614400,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 3072000,
+      "uri": "scene.bin"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "name": "Material.001",
+      "pbrMetallicRoughness": {
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.46374507158686207
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Circle_Material.001_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0
+          },
+          "indices": 2,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Circle_Material.001_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 4,
+            "POSITION": 3
+          },
+          "indices": 5,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        -1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "1a06b8a08dad4ed5b14bb65dfd0af0ff.fbx"
+    },
+    {
+      "children": [
+        3
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4,
+        5
+      ],
+      "matrix": [
+        -99.79829848531924,
+        3.4188267146327624,
+        -5.348805235900308,
+        0.0,
+        -3.4126115953215166,
+        -99.94154562813837,
+        -0.2075221365998244,
+        0.0,
+        -5.352773447642443,
+        -0.024569613615506497,
+        99.85663329369913,
+        0.0,
+        0.0,
+        78.63214874267578,
+        0.0,
+        1.0
+      ],
+      "name": "Circle"
+    },
+    {
+      "mesh": 0,
+      "name": "Circle_Material.001_0"
+    },
+    {
+      "mesh": 1,
+      "name": "Circle_Material.001_0"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

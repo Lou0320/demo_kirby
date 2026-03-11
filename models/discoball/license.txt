@@ -1,0 +1,11 @@
+Model Information:
+* title:	Disco Ball
+* source:	https://sketchfab.com/3d-models/disco-ball-e4c3b485680843c7a7a827d04ac28743
+* author:	araghon007 (https://sketchfab.com/araghon007)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Disco Ball" (https://sketchfab.com/3d-models/disco-ball-e4c3b485680843c7a7a827d04ac28743) by araghon007 (https://sketchfab.com/araghon007) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
